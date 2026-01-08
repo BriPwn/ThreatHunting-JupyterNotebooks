@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge)](LICENSE)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 
-A collection of threat hunting and detection engineering Jupyter notebooks accompanying the [Weekly Purple Team](https://youtube.com/@WeeklyPurpleTeam) YouTube channel. Each notebook provides hands-on labs and detection logic to help security professionals understand both offensive techniques and defensive strategies.
+A collection of threat hunting and detection engineering Jupyter notebooks accompanying the [Weekly Purple Team](https://youtube.com/@WeeklyPurpleTeam) YouTube channel. Each notebook provides detection logic to help security professionals understand both offensive techniques and defensive strategies.
 
 ---
 
