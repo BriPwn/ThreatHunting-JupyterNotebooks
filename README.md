@@ -13,10 +13,9 @@ A collection of threat hunting and detection engineering Jupyter notebooks accom
 These notebooks bridge the gap between red team tactics and blue team defenses. By understanding how attacks work, we build better detections.
 
 Each notebook is designed to:
-- **Demonstrate** real-world attack techniques
+- **Show How to Detect** real-world attack techniques
 - **Analyze** telemetry and log data
 - **Develop** detection logic and hunting queries
-- **Validate** defensive controls
 
 ## 📺 YouTube Channel
 
